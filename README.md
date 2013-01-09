@@ -6,4 +6,4 @@ School project (simple board for notes)
 Screenshots
 -------
 
-![TaskWall](/jirkapenzes/taskwall/master/taskwall.png "TaskWall")
+![TaskWall](https://raw.github.com/jirkapenzes/taskwall/master/taskwall.png "TaskWall")
